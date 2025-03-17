@@ -7,3 +7,4 @@ variable "test" {
 output "salida-test" {
     value = var.test
 }
+
